@@ -1,0 +1,26 @@
+.line{
+	width:960px;
+}
+#footer{
+	clear:both;
+	padding:22px 0 80px 0;
+	color:#888888;
+}
+#frontpage #articles .article{
+	width:450px;
+}
+#frontpage #articles .article p{
+	float:left;
+	margin:2px 0 0 0;
+	width:350px;
+}
+#frontpage #featured-projects{
+	margin-bottom:-20px;
+}
+.page-title{
+	position:relative;
+	z-index:2;
+}
+#nav{
+	margin-top:38px;
+}
